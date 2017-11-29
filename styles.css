@@ -1,0 +1,36 @@
+ul {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+li {
+	list-style-type: none;
+	color: #393939;
+	font-family: "Avenir Next";	
+	font-size: 24px;	
+	font-weight: 600;	
+	letter-spacing: 1px;	
+	line-height: 41px;	
+	text-align: center;
+}
+
+.bigtitle{
+		height: 198px;	
+		width: 426px;	
+		color: #393939;	
+		font-family: "Fugaz One";	
+		font-size: 36px;	
+		font-weight: bold;	
+		letter-spacing: 1px;	
+		line-height: 66px;	
+		text-align: center;
+}
+
+.body{
+
+}
+
+a:link {
+    color: #393939;
+}
